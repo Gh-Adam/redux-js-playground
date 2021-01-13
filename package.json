@@ -1,0 +1,10 @@
+{
+  "name": "redux-js-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gh-Adam <ghada.adam.2011@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^4.0.5"
+  }
+}
